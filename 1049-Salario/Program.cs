@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Security.Cryptography.X509Certificates;
 
 class URI
 {
@@ -11,14 +10,9 @@ class URI
         int horas = int.Parse(Console.ReadLine());
         double valorHora = double.Parse(Console.ReadLine());
 
-        void calcularSalario()
-        {
-            double salario = horas * valorHora;
-            Console.WriteLine($"NUMBER = {funcionario}");
-            Console.WriteLine($"SALARY = U$ {salario:F2}");
-        }
-
-        calcularSalario();
+        double salario = horas * valorHora;
+        Console.WriteLine("NUMBER = " + funcionario);
+        Console.WriteLine($"SALARY = U$ {salario:F2}");
 
     }
 

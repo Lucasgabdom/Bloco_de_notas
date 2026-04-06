@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/1051-salarioComjuros/">
+    <Project Path="1051-salarioComjuros/1051-salarioComJuros.csproj" />
+  </Folder>
   <Project Path="1049-Salario/1049-Salario.csproj" />
   <Project Path="1050-ConsumoEnergia/1050-ConsumoEnergia.csproj" />
 </Solution>
