@@ -6,4 +6,5 @@
   <Project Path="1050-ConsumoEnergia/1050-ConsumoEnergia.csproj" />
   <Project Path="1052-calculoSimples/1052-calculoSimples.csproj" />
   <Project Path="1053-esfera/1053-esfera.csproj" />
+  <Project Path="1054-area/1054-area.csproj" />
 </Solution>
