@@ -4,4 +4,5 @@
   </Folder>
   <Project Path="1049-Salario/1049-Salario.csproj" />
   <Project Path="1050-ConsumoEnergia/1050-ConsumoEnergia.csproj" />
+  <Project Path="1052-calculoSimples/1052-calculoSimples.csproj" />
 </Solution>
