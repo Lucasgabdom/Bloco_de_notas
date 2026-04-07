@@ -13,7 +13,7 @@ class URI
         double comissao = vendas * 0.15;
         double total = salarioFixo + comissao;
 
-        Console.WriteLine ("TOTAL = R$" + total.ToString("F2"));
+        Console.WriteLine ("TOTAL = R$ " + total.ToString("F2"));
 
 
 
