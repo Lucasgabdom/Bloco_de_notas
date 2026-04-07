@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Estudos-FIAP-blue?style=for-the-badge" alt="FIAP">
-  <img src="https://img.shields.io/github/languages/top/seu-usuario/[seu-repositorio?style=for-the-badge](https://github.com/Lucasgabdom/Bloco_de_notas)" alt="Top Language">
 </p>
 
 Este repositório contém as soluções dos desafios que resolvo na plataforma **BeeCrowd**. O objetivo principal é consolidar meu aprendizado em lógica de programação e algoritmos, servindo como material de consulta e histórico de evolução.
