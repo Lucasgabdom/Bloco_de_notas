@@ -2,9 +2,13 @@
   <Folder Name="/1051-salarioComjuros/">
     <Project Path="1051-salarioComjuros/1051-salarioComJuros.csproj" />
   </Folder>
+  <Folder Name="/1055-maior/">
+    <Project Path="1055-maior/1055-Maior.csproj" />
+  </Folder>
   <Project Path="1049-Salario/1049-Salario.csproj" />
   <Project Path="1050-ConsumoEnergia/1050-ConsumoEnergia.csproj" />
   <Project Path="1052-calculoSimples/1052-calculoSimples.csproj" />
   <Project Path="1053-esfera/1053-esfera.csproj" />
   <Project Path="1054-area/1054-area.csproj" />
+  <Project Path="1056-consumo/1056-consumo.csproj" />
 </Solution>
