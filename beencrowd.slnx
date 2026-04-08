@@ -11,4 +11,5 @@
   <Project Path="1053-esfera/1053-esfera.csproj" />
   <Project Path="1054-area/1054-area.csproj" />
   <Project Path="1056-consumo/1056-consumo.csproj" />
+  <Project Path="1057-distanciaEntreDoisPontos/1057-distanciaEntreDoisPontos.csproj" />
 </Solution>
