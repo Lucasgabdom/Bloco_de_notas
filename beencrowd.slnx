@@ -12,4 +12,6 @@
   <Project Path="1054-area/1054-area.csproj" />
   <Project Path="1056-consumo/1056-consumo.csproj" />
   <Project Path="1057-distanciaEntreDoisPontos/1057-distanciaEntreDoisPontos.csproj" />
+  <Project Path="1058-distancia/1058-distancia.csproj" />
+  <Project Path="1059-gastoDeCombustiveis/1059-gastoDeCombustiveis.csproj" />
 </Solution>
