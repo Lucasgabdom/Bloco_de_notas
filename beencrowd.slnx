@@ -16,4 +16,5 @@
   <Project Path="1059-gastoDeCombustiveis/1059-gastoDeCombustiveis.csproj" />
   <Project Path="1060-cedulas/1060-cedulas.csproj" />
   <Project Path="1061-conversaoTempo/1061-conversaoTempo.csproj" />
+  <Project Path="1062-idadeEmDias/1062-idadeEmDias.csproj" />
 </Solution>
