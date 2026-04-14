@@ -13,7 +13,7 @@ class URI
         int segundos = N % 60; // Os segundos restantes depois de retirar as horas completas e os minutos completos.
 
         Console.WriteLine($"{horas}:{minutos}:{segundos}");
-
+    
     }
 
 }
