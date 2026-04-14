@@ -18,4 +18,5 @@
   <Project Path="1061-conversaoTempo/1061-conversaoTempo.csproj" />
   <Project Path="1062-idadeEmDias/1062-idadeEmDias.csproj" />
   <Project Path="1063-notasMoedas/1063-notasMoedas.csproj" />
+  <Project Path="1064-testeDeSelecao/1064-testeDeSelecao.csproj" />
 </Solution>
