@@ -23,4 +23,5 @@
   <Project Path="1066-intervalo/1066-intervalo.csproj" />
   <Project Path="1067-lanche/1067-lanche.csproj" />
   <Project Path="1068-media3/1068-media3.csproj" />
+  <Project Path="1069-coordenadasDeUmPonto/1069-coordenadasDeUmPonto.csproj" />
 </Solution>
