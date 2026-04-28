@@ -25,4 +25,5 @@
   <Project Path="1068-media3/1068-media3.csproj" />
   <Project Path="1069-coordenadasDeUmPonto/1069-coordenadasDeUmPonto.csproj" />
   <Project Path="1070-sortSimples/1070-sortSimples.csproj" />
+  <Project Path="1071-triangulo/1071-triangulo.csproj" />
 </Solution>
