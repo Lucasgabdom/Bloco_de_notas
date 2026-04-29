@@ -29,4 +29,5 @@
   <Project Path="1072-multiplos/1072-multiplos.csproj" />
   <Project Path="1073-tiposDeTriangulo/1073-tiposDeTriangulo.csproj" />
   <Project Path="1074-tempoDeJogo/1074-tempoDeJogo.csproj" />
+  <Project Path="1075-tempoComminutos/1075-tempoComminutos.csproj" />
 </Solution>
