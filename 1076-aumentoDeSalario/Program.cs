@@ -16,7 +16,7 @@ class URI
             double novoSalario = salario + resultado;
             Console.WriteLine($"Novo salario: {novoSalario:F2}");
             Console.WriteLine($"Reajuste ganho: {resultado:F2}");
-            Console.WriteLine("Em percentual: 15%");
+            Console.WriteLine("Em percentual: 15 %");
 
         }
         else if (salario > 400.00 && salario <= 800.00)
@@ -25,7 +25,7 @@ class URI
             double novoSalario = salario + resultado;
             Console.WriteLine($"Novo salario: {novoSalario:F2}");
             Console.WriteLine($"Reajuste ganho: {resultado:F2}");
-            Console.WriteLine("Em percentual: 12%");
+            Console.WriteLine("Em percentual: 12 %");
         }
         else if (salario > 800.00 && salario <= 1200.00)
         {
@@ -33,7 +33,7 @@ class URI
             double novoSalario = salario + resultado;
             Console.WriteLine($"Novo salario: {novoSalario:F2}");
             Console.WriteLine($"Reajuste ganho: {resultado:F2}");
-            Console.WriteLine("Em percentual: 10%");
+            Console.WriteLine("Em percentual: 10 %");
         }
         else if (salario > 1200.00 && salario <= 2000.00)
         {
@@ -41,7 +41,7 @@ class URI
             double novoSalario = salario + resultado;
             Console.WriteLine($"Novo salario: {novoSalario:F2}");
             Console.WriteLine($"Reajuste ganho: {resultado:F2}");
-            Console.WriteLine("Em percentual: 7%");
+            Console.WriteLine("Em percentual: 7 %");
         }
         else if (salario > 2000.00)
         {
@@ -49,7 +49,7 @@ class URI
             double novoSalario = salario + resultado;
             Console.WriteLine($"Novo salario: {novoSalario:F2}");
             Console.WriteLine($"Reajuste ganho: {resultado:F2}");
-            Console.WriteLine("Em percentual: 4%");
+            Console.WriteLine("Em percentual: 4 %");
         }   
 
 
@@ -57,3 +57,6 @@ class URI
     }
 
 }
+
+
+
