@@ -30,4 +30,5 @@
   <Project Path="1073-tiposDeTriangulo/1073-tiposDeTriangulo.csproj" />
   <Project Path="1074-tempoDeJogo/1074-tempoDeJogo.csproj" />
   <Project Path="1075-tempoComminutos/1075-tempoComminutos.csproj" />
+  <Project Path="1076-aumentoDeSalario/1076-aumentoDeSalario.csproj" />
 </Solution>
