@@ -32,4 +32,5 @@
   <Project Path="1075-tempoComminutos/1075-tempoComminutos.csproj" />
   <Project Path="1076-aumentoDeSalario/1076-aumentoDeSalario.csproj" />
   <Project Path="1077-Animal/1077-Animal.csproj" />
+  <Project Path="1078-DDD/1078-DDD.csproj" />
 </Solution>

@@ -6,11 +6,9 @@ class URI
     static void Main(string[] args)
     {
 
-        String[] Entrada = Console.ReadLine().Split(' ');
-
-        string Filo = Entrada[0];
-        string Classe = Entrada[1];
-        string Ordem = Entrada[2];
+        string Filo = Console.ReadLine();
+        string Classe = Console.ReadLine();
+        string Ordem = Console.ReadLine();
 
         if (Filo == "vertebrado" && Classe == "ave" && Ordem == "carnivoro")
         {
