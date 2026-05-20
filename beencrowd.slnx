@@ -38,5 +38,6 @@
   <Project Path="1078-DDD/1078-DDD.csproj" />
   <Project Path="1080-FlavioJosephus/1080-FlavioJosephus.csproj" />
   <Project Path="1081-Energia/1081-Energia.csproj" />
+  <Project Path="1082-Mes/1082-Mes.csproj" />
   <Project Path="impostoDeRenda/impostoDeRenda.csproj" />
 </Solution>
