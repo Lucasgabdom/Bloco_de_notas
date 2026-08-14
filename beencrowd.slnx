@@ -42,5 +42,6 @@
   <Project Path="1084-primoDeJosephus/1084-primoDeJosephus.csproj" />
   <Project Path="1085-numerosPares/1085-numerosPares.csproj" />
   <Project Path="1086-NumerosPositivos/1086-NumerosPositivos.csproj" />
+  <Project Path="1087-TempoEvento/1087-TempoEvento.csproj" />
   <Project Path="impostoDeRenda/impostoDeRenda.csproj" />
 </Solution>
